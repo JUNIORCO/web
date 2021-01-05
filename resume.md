@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Resume
-permalink: /SamiJuniorKahil-Resume.pdf
+permalink: /resume/SamiJuniorKahilResume.pdf
 ---
 

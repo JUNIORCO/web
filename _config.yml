@@ -21,7 +21,7 @@
 title: Junior
 email: sami.kahil@mail.mcgill.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Connect with me on social media!
+  Connect with me on social media or send me an email!
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://juniorco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
