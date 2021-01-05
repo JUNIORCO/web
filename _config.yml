@@ -30,10 +30,6 @@ linkedin_username: JUNIORCO
 
 show_excerpts: true
 
-header_pages:
-  - about.md
-  - portfolio.md
-
 # Build settings
 theme: minima
 plugins:
