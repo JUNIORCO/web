@@ -21,18 +21,23 @@
 title: Junior
 email: sami.kahil@mail.mcgill.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website!
+  Connect with me on social media!
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://juniorco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  JUNIORCO
+linkedin_username: JUNIORCO
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - portfolio.md
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-minima:
-  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.

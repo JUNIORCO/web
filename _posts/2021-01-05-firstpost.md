@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "My first post!"
+title:  "Event App"
 date:   2021-01-05 16:13:01 +0300
-categories: jekyll update
+categories: projects
 ---
 
-Welcome to my first post!
+Companion application
 
-## Here are things
+> View the web app [here]({{site.baseurl}}/event-app/)!
+
+---
+
+### Why?
