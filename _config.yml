@@ -28,8 +28,6 @@ url: "https://juniorco.github.io" # the base hostname & protocol for your site, 
 github_username:  JUNIORCO
 linkedin_username: JUNIORCO
 
-show_excerpts: true
-
 # Build settings
 theme: minima
 plugins:
